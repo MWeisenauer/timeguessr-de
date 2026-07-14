@@ -42,16 +42,6 @@
       "lizenz": "CC BY 2.0"
     },
     {
-      "id": 13,
-      "bild": "basa_3k_7_355_16_cultural_review_of_the_nations_in_hamburg_1936.jpg",
-      "jahr": 1936,
-      "lat": 53.550278,
-      "lon": 9.992222,
-      "ort": "Hamburg",
-      "quelle": "Wikimedia Commons · Unknown author",
-      "lizenz": "Public domain"
-    },
-    {
       "id": 14,
       "bild": "president_john_f_kennedy_at_city_hall_in_cologne_germany_jfkwhp_kn_c29228.jpg",
       "jahr": 1963,
@@ -462,16 +452,6 @@
       "lizenz": "CC BY-SA 3.0 de"
     },
     {
-      "id": 93,
-      "bild": "bundesarchiv_bild_146_1984_020_23_nuernberg_whw_werbetafel.jpg",
-      "jahr": 1936,
-      "lat": 49.4539,
-      "lon": 11.0775,
-      "ort": "Nürnberg",
-      "quelle": "Wikimedia Commons · Grimm, Kurt",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
       "id": 94,
       "bild": "balthasar_huebmaier_nuernberg.jpg",
       "jahr": 1905,
@@ -609,6 +589,266 @@
       "lon": 9.732,
       "ort": "Hannover",
       "quelle": "Wikimedia Commons · Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 110,
+      "bild": "bundesarchiv_b_145_bild_f001105_0005_fernsehstudio_koeln_journalistengespraech_s.jpg",
+      "jahr": 1953,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Brodde",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 111,
+      "bild": "bundesarchiv_b_145_bild_f001105_0009_koeln_wdr_fernsehstudio.jpg",
+      "jahr": 1953,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Brodde",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 112,
+      "bild": "bundesarchiv_b_145_bild_f001162_0004_koeln_textilfabrik_bierbaum_proenen.jpg",
+      "jahr": 1953,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Unterberg, Rolf",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 113,
+      "bild": "bundesarchiv_b_145_bild_f001349_0029_koeln_wdr_rundfunkstudio.jpg",
+      "jahr": 1954,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Leonhardt",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 114,
+      "bild": "bundesarchiv_b_145_bild_f008719_0005_deutschen_welle_koeln_arabische_rundfunkred.jpg",
+      "jahr": 1960,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Steiner, Egon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 115,
+      "bild": "bundesarchiv_b_145_bild_f008719_0009_deutschen_welle_koeln_arabische_rundfunkred.jpg",
+      "jahr": 1960,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Steiner, Egon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 116,
+      "bild": "bundesarchiv_b_145_bild_f008720_0003_deutschen_welle_koeln_arabische_rundfunkred.jpg",
+      "jahr": 1960,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Steiner, Egon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 117,
+      "bild": "bundesarchiv_b_145_bild_f011684_0010_koeln_zollkriminalinstitut.jpg",
+      "jahr": 1961,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Steiner, Egon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 118,
+      "bild": "bundesarchiv_b_145_bild_f013093_0001_koeln_schokoladenfabrik_stollwerck_gastarbe.jpg",
+      "jahr": 1962,
+      "lat": 50.9384,
+      "lon": 6.9581,
+      "ort": "Köln",
+      "quelle": "Wikimedia Commons · Unterberg, Rolf",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 120,
+      "bild": "bundesarchiv_bild_183_h26751_hamburg_glockenlager_im_freihafen.jpg",
+      "jahr": 1947,
+      "lat": 53.5503,
+      "lon": 9.992,
+      "ort": "Hamburg",
+      "quelle": "Wikimedia Commons · Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 122,
+      "bild": "bundesarchiv_bild_102_07567_hamburg_brennende_europa_im_hafen.jpg",
+      "jahr": 1929,
+      "lat": 53.5503,
+      "lon": 9.992,
+      "ort": "Hamburg",
+      "quelle": "Wikimedia Commons · Georg Pahl",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 123,
+      "bild": "bundesarchiv_bild_102_08468_hamburg_tierpark_hagenbeck.jpg",
+      "jahr": 1929,
+      "lat": 53.5503,
+      "lon": 9.992,
+      "ort": "Hamburg",
+      "quelle": "Wikimedia Commons · Unknown",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 124,
+      "bild": "bundesarchiv_bild_102_08921_hamburg_stapellauf_des_motorschiffs_milwaukee.jpg",
+      "jahr": 1929,
+      "lat": 53.5503,
+      "lon": 9.992,
+      "ort": "Hamburg",
+      "quelle": "Wikimedia Commons · Unknown",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 127,
+      "bild": "bundesarchiv_bild_137_022366_hamburg_dockung_4_s_s_vaterland.jpg",
+      "jahr": 1914,
+      "lat": 53.5503,
+      "lon": 9.992,
+      "ort": "Hamburg",
+      "quelle": "Wikimedia Commons · Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 129,
+      "bild": "bundesarchiv_bild_183_2005_0715_508_bremen_taufe_eines_fischdampfer.jpg",
+      "jahr": 1949,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Unknown",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 132,
+      "bild": "bundesarchiv_bild_102_13086_bremen_norddeutscher_lloyd_verwaltung.jpg",
+      "jahr": 1932,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 133,
+      "bild": "feuerwehr_bremen_1880.jpg",
+      "jahr": 1880,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Unknown author",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 137,
+      "bild": "bundesarchiv_bild_183_09549_0003_leipzig_universitaet_bibliothek.jpg",
+      "jahr": 1951,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Klein",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 138,
+      "bild": "bundesarchiv_bild_183_19650_0001_leipzig_dhfk_massageunterricht.jpg",
+      "jahr": 1953,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Illner",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 139,
+      "bild": "bundesarchiv_bild_183_19650_0002_leipzig_dhfk_gewichtskontrolle.jpg",
+      "jahr": 1953,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Illner",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 140,
+      "bild": "bundesarchiv_bild_183_19650_0011_leipzig_dhfk_rudern.jpg",
+      "jahr": 1953,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Illner",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 141,
+      "bild": "bundesarchiv_bild_183_1984_0518_009_leipzig_auerbachs_keller_wirtshausschild.jpg",
+      "jahr": 1984,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Friedrich Gahlbeck",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 142,
+      "bild": "bundesarchiv_bild_183_1985_1009_013_leipzig_alte_salzstrasse_brunnen.jpg",
+      "jahr": 1985,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Friedrich Gahlbeck",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 143,
+      "bild": "bundesarchiv_bild_183_1986_1022_302_leipzig_deutschen_buecherei_restaurierungswe.jpg",
+      "jahr": 1986,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Waltraud Grubitzsch",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 144,
+      "bild": "bundesarchiv_bild_183_1989_0307_307_leipzig_wohnhaus_am_dorotheenplatz.jpg",
+      "jahr": 1989,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Friedrich Gahlbeck",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 145,
+      "bild": "bundesarchiv_bild_183_24533_0001_leipzig_ehrenmal_der_friedensfahrt.jpg",
+      "jahr": 1954,
+      "lat": 51.3397,
+      "lon": 12.3731,
+      "ort": "Leipzig",
+      "quelle": "Wikimedia Commons · Gerhard Illner",
       "lizenz": "CC BY-SA 3.0 de"
     }
   ]
