@@ -412,36 +412,6 @@
       "lizenz": "CC BY-SA 3.0 de"
     },
     {
-      "id": 82,
-      "bild": "bundesarchiv_b_145_bild_f029449_0011_muenchen_csu_parteitag.jpg",
-      "jahr": 1969,
-      "lat": 48.1372,
-      "lon": 11.5755,
-      "ort": "München",
-      "quelle": "Wikimedia Commons · Storz",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 83,
-      "bild": "bundesarchiv_b_145_bild_f029449_0012_muenchen_csu_parteitag.jpg",
-      "jahr": 1969,
-      "lat": 48.1372,
-      "lon": 11.5755,
-      "ort": "München",
-      "quelle": "Wikimedia Commons · Storz",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 84,
-      "bild": "bundesarchiv_b_145_bild_f029449_0017_muenchen_csu_parteitag.jpg",
-      "jahr": 1969,
-      "lat": 48.1372,
-      "lon": 11.5755,
-      "ort": "München",
-      "quelle": "Wikimedia Commons · Storz",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
       "id": 85,
       "bild": "bundesarchiv_b_145_bild_f033778_0023_muenchen_staatsbesuch_koenig_von_belgien.jpg",
       "jahr": 1971,
@@ -450,36 +420,6 @@
       "ort": "München",
       "quelle": "Wikimedia Commons · Gräfingholt, Detlef",
       "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 86,
-      "bild": "bundesarchiv_bild_119_1426_hitler_putsch_muenchen_odeonsplatz.jpg",
-      "jahr": 1923,
-      "lat": 48.1372,
-      "lon": 11.5755,
-      "ort": "München",
-      "quelle": "Wikimedia Commons · Unknown Unknown",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 87,
-      "bild": "bundesarchiv_bild_119_1486_hitler_putsch_muenchen_marienplatz.jpg",
-      "jahr": 1923,
-      "lat": 48.1372,
-      "lon": 11.5755,
-      "ort": "München",
-      "quelle": "Wikimedia Commons · Unknown Unknown",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 88,
-      "bild": "reichsparteitag_of_the_nsdap_in_nuremberg_sa_troops_march_past_adolf_hitler_sept.jpg",
-      "jahr": 1935,
-      "lat": 49.4539,
-      "lon": 11.0775,
-      "ort": "Nürnberg",
-      "quelle": "Wikimedia Commons",
-      "lizenz": "Public domain"
     },
     {
       "id": 89,
@@ -619,26 +559,6 @@
       "lon": 9.732,
       "ort": "Hannover",
       "quelle": "Wikimedia Commons · Gräfingholt, Detlef",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 103,
-      "bild": "bundesarchiv_b_145_bild_f039410_0022_hannover_spd_bundesparteitag_roth.jpg",
-      "jahr": 1973,
-      "lat": 52.3759,
-      "lon": 9.732,
-      "ort": "Hannover",
-      "quelle": "Wikimedia Commons · Unknown author Unknown author",
-      "lizenz": "CC BY-SA 3.0 de"
-    },
-    {
-      "id": 104,
-      "bild": "bundesarchiv_b_145_bild_f039419_0012_hannover_spd_bundesparteitag_renger.jpg",
-      "jahr": 1973,
-      "lat": 52.3759,
-      "lon": 9.732,
-      "ort": "Hannover",
-      "quelle": "Wikimedia Commons · Ludwig Wegmann",
       "lizenz": "CC BY-SA 3.0 de"
     },
     {
