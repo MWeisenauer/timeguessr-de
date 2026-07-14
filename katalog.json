@@ -850,6 +850,36 @@
       "ort": "Leipzig",
       "quelle": "Wikimedia Commons · Gerhard Illner",
       "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 146,
+      "bild": "kraftwerk_farge_1970.jpg",
+      "jahr": 1970,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Weserfreund",
+      "lizenz": "CC BY-SA 3.0"
+    },
+    {
+      "id": 147,
+      "bild": "bremen_osterdeich_house_number_113_114_in_1965.jpg",
+      "jahr": 1965,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Buonasera",
+      "lizenz": "CC BY-SA 3.0"
+    },
+    {
+      "id": 148,
+      "bild": "blick_vom_segelverein_ueber_weser_und_osterdeich_richtung_dom_im_mai_1965.jpg",
+      "jahr": 1965,
+      "lat": 53.0793,
+      "lon": 8.8017,
+      "ort": "Bremen",
+      "quelle": "Wikimedia Commons · Buonasera",
+      "lizenz": "CC BY-SA 3.0"
     }
   ]
 }
