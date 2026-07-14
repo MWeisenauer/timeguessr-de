@@ -350,6 +350,346 @@
       "ort": "Düsseldorf-Oberkassel",
       "quelle": "Wikimedia Commons · Unknown author",
       "lizenz": "CC BY 4.0"
+    },
+    {
+      "id": 76,
+      "bild": "bundesarchiv_b_145_bild_f013050_0001_muenchen_staatsbesuch_praesident_von_zypern.jpg",
+      "jahr": 1962,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Steiner",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 77,
+      "bild": "bundesarchiv_b_145_bild_f013129_0001_muenchen_lenbachplatz_haus_bernheimer.jpg",
+      "jahr": 1962,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Steiner",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 78,
+      "bild": "bundesarchiv_b_145_bild_f014942_0016_muenchen_staatsbesuch_vizepraesident_von_zy.jpg",
+      "jahr": 1963,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Ludwig Wegmann",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 79,
+      "bild": "bundesarchiv_b_145_bild_f027638_0001_muenchen_bmw_autowerk.jpg",
+      "jahr": 1968,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 80,
+      "bild": "bundesarchiv_b_145_bild_f027638_0002_muenchen_bmw_autowerk.jpg",
+      "jahr": 1968,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 81,
+      "bild": "bundesarchiv_b_145_bild_f027638_0010_muenchen_bmw_autowerk.jpg",
+      "jahr": 1968,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 82,
+      "bild": "bundesarchiv_b_145_bild_f029449_0011_muenchen_csu_parteitag.jpg",
+      "jahr": 1969,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 83,
+      "bild": "bundesarchiv_b_145_bild_f029449_0012_muenchen_csu_parteitag.jpg",
+      "jahr": 1969,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 84,
+      "bild": "bundesarchiv_b_145_bild_f029449_0017_muenchen_csu_parteitag.jpg",
+      "jahr": 1969,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Storz",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 85,
+      "bild": "bundesarchiv_b_145_bild_f033778_0023_muenchen_staatsbesuch_koenig_von_belgien.jpg",
+      "jahr": 1971,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Gräfingholt, Detlef",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 86,
+      "bild": "bundesarchiv_bild_119_1426_hitler_putsch_muenchen_odeonsplatz.jpg",
+      "jahr": 1923,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Unknown Unknown",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 87,
+      "bild": "bundesarchiv_bild_119_1486_hitler_putsch_muenchen_marienplatz.jpg",
+      "jahr": 1923,
+      "lat": 48.1372,
+      "lon": 11.5755,
+      "ort": "München",
+      "quelle": "Wikimedia Commons · Unknown Unknown",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 88,
+      "bild": "reichsparteitag_of_the_nsdap_in_nuremberg_sa_troops_march_past_adolf_hitler_sept.jpg",
+      "jahr": 1935,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 89,
+      "bild": "frankfurter_fuerstentag_1863_abschlussphoto.jpg",
+      "jahr": 1863,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Josef Albert",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 90,
+      "bild": "bundesarchiv_b_145_bild_f007447_0011_nuernberg_firma_grundig.jpg",
+      "jahr": 1959,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Müller, Simon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 91,
+      "bild": "bundesarchiv_b_145_bild_f007452_0007_nuernberg_firma_grundig.jpg",
+      "jahr": 1959,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Müller, Simon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 92,
+      "bild": "bundesarchiv_b_145_bild_f007458_0009_nuernberg_firma_wolff_lebkuchenfabrik.jpg",
+      "jahr": 1959,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Müller, Simon",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 93,
+      "bild": "bundesarchiv_bild_146_1984_020_23_nuernberg_whw_werbetafel.jpg",
+      "jahr": 1936,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Grimm, Kurt",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 94,
+      "bild": "balthasar_huebmaier_nuernberg.jpg",
+      "jahr": 1905,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Henry Clay Vedder",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 95,
+      "bild": "bund_oberland_nuernberg_1923.jpg",
+      "jahr": 1923,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 96,
+      "bild": "a_market_day_in_nuremburg_bavaria_photo_from_the_encyclopedia_of_food_by_artemas.jpg",
+      "jahr": 1923,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Artemas Ward (photo credit: Copyright H. C. White Co.)",
+      "lizenz": "Public domain"
+    },
+    {
+      "id": 97,
+      "bild": "fotothek_df_ps_0004533_landschaften_flusslandschaften_befestigungsanlagen_s.jpg",
+      "jahr": 1950,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Richard Peter",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 98,
+      "bild": "fotothek_df_ps_0004538_befestigungsanlagen_stadttuerme.jpg",
+      "jahr": 1950,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Richard Peter",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 99,
+      "bild": "fotothek_df_ps_0004544_befestigungsanlagen_stadttuerme_bruecken_kirchen.jpg",
+      "jahr": 1950,
+      "lat": 49.4539,
+      "lon": 11.0775,
+      "ort": "Nürnberg",
+      "quelle": "Wikimedia Commons · Richard Peter",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 100,
+      "bild": "bundesarchiv_b_145_bild_f022981_0006_hannover_internationale_polizeiausstellung.jpg",
+      "jahr": 1966,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Detlef Gräfingholt",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 101,
+      "bild": "bundesarchiv_b_145_bild_f022981_0011_hannover_internationale_polizeiausstellung.jpg",
+      "jahr": 1966,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Detlef Gräfingholt",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 102,
+      "bild": "bundesarchiv_b_145_bild_f022984_0011_hannover_internationale_polizeiausstellung.jpg",
+      "jahr": 1966,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Gräfingholt, Detlef",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 103,
+      "bild": "bundesarchiv_b_145_bild_f039410_0022_hannover_spd_bundesparteitag_roth.jpg",
+      "jahr": 1973,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 104,
+      "bild": "bundesarchiv_b_145_bild_f039419_0012_hannover_spd_bundesparteitag_renger.jpg",
+      "jahr": 1973,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Ludwig Wegmann",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 105,
+      "bild": "bundesarchiv_b_145_bild_f040738_0008_hannover_vw_autowerk.jpg",
+      "jahr": 1973,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Lothar Schaack",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 106,
+      "bild": "bundesarchiv_bild_102_01301_hannover_parade_vaterlaendischer_verbaende.jpg",
+      "jahr": 1925,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 107,
+      "bild": "bundesarchiv_bild_102_01303_hannover_villa_hindenburgs_menschenmenge.jpg",
+      "jahr": 1925,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 108,
+      "bild": "bundesarchiv_bild_102_07925_hannover_frauen_turnschule_logis.jpg",
+      "jahr": 1929,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
+    },
+    {
+      "id": 109,
+      "bild": "bundesarchiv_bild_183_n0619_0037_fussball_wm_bulgarien_uruguay_1_1.jpg",
+      "jahr": 1974,
+      "lat": 52.3759,
+      "lon": 9.732,
+      "ort": "Hannover",
+      "quelle": "Wikimedia Commons · Unknown author Unknown author",
+      "lizenz": "CC BY-SA 3.0 de"
     }
   ]
 }
